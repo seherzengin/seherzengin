@@ -1,7 +1,6 @@
 # **Seher Zengin**
+# **Back-end Developer**
 
-## Back-end Developer
-
-## **Programming Languages**
+## Programming Languages
 
 
