@@ -1,5 +1,4 @@
-# **Seher Zengin** **Back-end Developer**
-  
+# **Seher Zengin** 
 
 
 ## 🌐 Socials:
