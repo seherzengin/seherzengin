@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Seher
-#### Back-end Developer
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Seher Zengin </h1>
+<h3 align="center">Back-end Developer</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seherzengin) 
